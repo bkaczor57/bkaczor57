@@ -6,6 +6,8 @@
 - Complex full-stack development using various different technologies
 - Fundamentals of graphic programming using OpenGL  
 
+
+![](https://komarev.com/ghpvc/?username=bkaczor57&color=brightgreen)
 ## Tech Stack:
 Frontend
 <p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40" height="40" alt="HTML"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40" height="40" alt="CSS"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40" height="40" alt="JavaScript"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" height="40" alt="React"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vite.png" width="40" height="40" alt="Vite"> </p>
@@ -14,9 +16,10 @@ Backend
 Databases
 <p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" width="40" height="40" alt="PostgreSQL"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mariadb.png" width="40" height="40" alt="MariaDB"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="40" height="40" alt="MySQL"> </p>
 DevOps / Other Tools
-<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" width="40" height="40" alt="Docker"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nginx.png" width="40" height="40" alt="Nginx"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" width="40" height="40" alt="Linux"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" height="40" alt="Git"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/opengl.png" width="40" height="40" alt="OpenGL"> </p>
-<!--
+<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" width="40" height="40" alt="Docker"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nginx.png" width="40" height="40" alt="Nginx"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" width="40" height="40" alt="Linux"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" height="40" alt="Git"> 
+OpenGL
 **bkaczor57/bkaczor57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
